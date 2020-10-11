@@ -23,7 +23,6 @@ def player(board):
     Returns player who has the next turn on a board.
     """
     # raise NotImplementedError
-    # print(any([EMPTY, EMPTY])) # check how any behaves
     # print(board)
     # print(any(sublist for sublist in board)) # this not work
     any_non_empty = False
